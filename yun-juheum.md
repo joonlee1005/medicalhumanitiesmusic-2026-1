@@ -10,7 +10,7 @@ ICD: G30.1
 # Dear my freinds
 
 The drama *Dear My Friends* (2016) depicts the journey of the protagonist, Hee-ja, who strives to maintain her dignity through solidarity with her friends despite the terror of fading memories caused by Alzheimer's disease. The OST["Want to Be Free](https://youtu.be/MJym9hB74C8?si=8sfheuB3x9ev1BPF), co-composed by Henry, profoundly reflects her inner world; its hauntingly dreamlike melody and poignant lyrics—pleading to be remembered even as she loses herself—sensuously capture the sense of cognitive alienation and detachment from reality. Rather than portraying the disease as mere functional decline, the music serves as a vital psychological mechanism that auditorily embodies a fundamental longing for agency and freedom, which persists even as the self begins to crumble.
-<img src="./yun-juheum.png" alt="Abstract image of Alzheimer" style="width:35%;" />
+<img src="./[yun-juheum.png](https://github.com/jenyun0017-ui/medicalhumanitiesmusic-2026-1/blob/7236a2b0c495deea2125eada190b16e11a6a5d0d/yun-juheum.png)" alt="Abstract image of Alzheimer" style="width:35%;" />
 
 # 디어마이프렌즈
 
