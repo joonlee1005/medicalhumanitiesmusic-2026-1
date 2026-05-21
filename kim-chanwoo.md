@@ -18,6 +18,11 @@ The central musical piece in *Mogul Mowgli* (2020) is “Mogambo,” written by 
 
 - Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-lAPR5EWAs&start_radio=1
 
+## AI 생성 이미지
+
+<img src="./ChatGPT Image 2026년 5월 21일 오후 08_32_48" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:25%;" />
+
+
 ## 관련 항목
 
 - [seo-taewon.md](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/seo-taewon.md): 이 항목은 질병을 겪는 인물의 주관적 경험이 음악과 음향을 통해 전달된다는 점에서 본 글과 함께 참고할 수 있다.
